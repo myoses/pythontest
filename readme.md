@@ -1,3 +1,5 @@
+[Reddit post](https://www.reddit.com/r/learnpython/comments/1c5g2rz/could_you_explain_how_to_correctly_import_modules/).
+
 Hi everyone,
 
 I really need some help because I'm probably doing everything wrong and it's driving me crazy.
